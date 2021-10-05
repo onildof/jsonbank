@@ -1,0 +1,43 @@
+{
+  "calendar_events": [
+    {
+      "title": "Título 1",
+      "description": "Descrição 1",
+
+      "fk_site_id": null,
+      "fk_user_id": null,
+      "status": "Aberto",
+      "start_date": null,
+
+      "end_date": null,
+      "reminder_date": null,
+      "reminder_sent": false
+    },
+    {
+      "title": "Título 2",
+      "description": "Descrição 2",
+
+      "fk_site_id": null,
+      "fk_user_id": null,
+      "status": "Aberto",
+      "start_date": null,
+
+      "end_date": null,
+      "reminder_date": null,
+      "reminder_sent": false
+    },
+    {
+      "title": "Título 3",
+      "description": "Descrição 3",
+
+      "fk_site_id": null,
+      "fk_user_id": null,
+      "status": "Aberto",
+      "start_date": null,
+
+      "end_date": null,
+      "reminder_date": null,
+      "reminder_sent": false
+    }
+  ]
+}

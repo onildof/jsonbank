@@ -1,0 +1,7 @@
+node_modules
+# File uploads
+uploads/
+static/img/avatars/
+.env
+.gitkeep
+*.docx
